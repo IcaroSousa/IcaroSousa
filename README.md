@@ -1,8 +1,8 @@
 # Icaro Jonas Ferreira Sousa
 
-**_Senior Software Engineer_**  
+**_Software Engineer_**  
 **Porto, Portugal**  
-_[Github](https://github.com/IcaroSousa) | [E-mail](icaro.py@gmail.com) | [Linkedin](https://www.linkedin.com/in/sousaicaro) |  [+351 912 826 357](+351912826357)_
+_[Github](https://github.com/IcaroSousa) |  [Linkedin](https://www.linkedin.com/in/sousaicaro) | [E-mail](icaro.py@gmail.com)_ |  +351 912 826 357
 
 ----------
 
