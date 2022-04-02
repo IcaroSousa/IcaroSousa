@@ -2,7 +2,7 @@
 
 **_Senior Software Engineer_**  
 **Porto, Portugal**  
-_[Github](https://github.com/IcaroSousa) | [E-mail](icaro.py@gmail.com) | [Linkedin](https://www.linkedin.com/in/sousaicaro) |  [+351 912 826 357](+351 912 826 357)_
+_[Github](https://github.com/IcaroSousa) | [E-mail](icaro.py@gmail.com) | [Linkedin](https://www.linkedin.com/in/sousaicaro) |  [+351 912 826 357](+351912826357)_
 
 ----------
 
