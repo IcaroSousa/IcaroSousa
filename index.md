@@ -1,8 +1,8 @@
 # Icaro Jonas Ferreira Sousa
 
-**_Senior Software Engineer_**
+**_Senior Software Engineer_**  
 **Porto, Portugal**  
-_[Github](https://github.com/IcaroSousa) | [E-mail](icaro.py@gmail.com) | [Linkedin](https://www.linkedin.com/in/sousaicaro) | [Phone](+351912826357)_
+_[Github](https://github.com/IcaroSousa) | [E-mail](icaro.py@gmail.com) | [Linkedin](https://www.linkedin.com/in/sousaicaro) |  [+351 912 826 357](+351 912 826 357)_
 
 ----------
 
@@ -10,9 +10,9 @@ _[Github](https://github.com/IcaroSousa) | [E-mail](icaro.py@gmail.com) | [Linke
 
 **Senior Software Engineer** @ [Farfetch](https://www.farfetch.com)  _- Aug/2021 - Present - Porto, Portugal_
 
-​ → Developed back-end `microservices` using best practices(`SOLID principles`, `DRY`, `TDD`) and testing automation. prioritizing performance, resilience, reuse and automated testing.  
+​	→ Developed back-end `microservices` using best practices(`SOLID principles`, `DRY`, `TDD`) and testing automation. prioritizing performance, resilience, reuse and automated testing.  
 
-​ → Built a mass communication tool using [`Google FCM`](https://firebase.google.com/docs/cloud-messaging) and [`Apache Kafka`](https://kafka.apache.org/) and [`.net core`](https://dotnet.microsoft.com/en-us/).  
+​	→ Built a mass communication tool using [`Google FCM`](https://firebase.google.com/docs/cloud-messaging) and [`Apache Kafka`](https://kafka.apache.org/) and [`.net core`](https://dotnet.microsoft.com/en-us/).  
 
 ​	→ Created integration tests by using [`TestContainers`](https://github.com/HofmeisterAn/dotnet-testcontainers), [`Docker-Compose`](https://docs.docker.com/compose/compose-file)  
 
@@ -71,3 +71,12 @@ _[Jan/2017 - Jan/2018]_  → Implemented a `continuous integration pipeline`usin
 ​	→ **English**, _Advance_  
 
 ​	→ **French**, _Basic_
+
+## Courses
+​	→ **C# With Clean Code, Fundamentals**
+​	→ **The MongoDB Aggregation Framework**
+​	→ **Querying with T-Sql**
+​	→ **Demystifying LINQ**
+​	→ **DevOps for Developers.**
+​	→ **Arduino, Basics.**
+​	→ **Innovation and Creativity.**
