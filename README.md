@@ -32,12 +32,15 @@ _[Github](https://github.com/IcaroSousa) | [E-mail](icaro.py@gmail.com) | [Linke
 ​	→ Successfully integrated `third-party hardware` and the company software through `tcp/ip`, `udp` and `rs232` protocols, automating basic processes making them `reliable` and `fast`, reducing working time and achieving the goal of `reduce frauds to zero` in all automated processes.  
 ​	→ `Back-end` developer using [`.net technologies`](https://dotnet.microsoft.com/en-us/), programming with [`C#`](https://dotnet.microsoft.com/en-us/languages/csharp) and [`Delphi`](https://www.embarcadero.com/br/products/delphi)  languages along with databases Microsoft [`SQL Server`](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads), providing communication  between software of the company through `RESTful` web services.
 
-**Back-end Software Developer/Senior Software Engineer** @ [Engegraph](https://www.engegraph.com.br/)  _- Goiânia, Brazil_  _[Feb/2012 - Jan/2015]_  
+**Back-end Software Developer/Senior Software Engineer** @ [Engegraph](https://www.engegraph.com.br/)  _- Goiânia, Brazil_   
 
-​	→ `Back-end` developer using [`.net technologies`](https://dotnet.microsoft.com/en-us/), programming with [`C#`](https://dotnet.microsoft.com/en-us/languages/csharp) and [`Delphi`](https://www.embarcadero.com/br/products/delphi)  languages side-by-side with Microsoft [`SQL Server`](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) and `Firebird` databases.  
-_[Jan/2017 - Jan/2018]_  → Implemented a `continuous integration pipeline`using [`Microsoft TFS`](https://docs.microsoft.com/en-us/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops-2020) enabling `merge request`, `code reviews` and `continuous testing`, reducing the time to integrate source code, reducing the `bugs returns` in 70%.  
+_[Jan/2017 - Jan/2018]_  
+​	→ Implemented a `continuous integration pipeline`using [`Microsoft TFS`](https://docs.microsoft.com/en-us/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops-2020) enabling `merge request`, `code reviews` and `continuous testing`, reducing the time to integrate source code, reducing the `bugs returns` in 70%.  
 ​	→ Brought `automated tests`, achieving `continuous delivery` making fast and reliable the process to deploy the company products.  
-​	→ Brought `Kanban` board and `Scrum methodologies`, turning visible team's results enabling setting team’s goals.
+​	→ Brought `Kanban` board and `Scrum methodologies`, turning visible team's results enabling setting team’s goals.  
+
+_[Feb/2012 - Jan/2015]_  
+​	→ `Back-end` developer using [`.net technologies`](https://dotnet.microsoft.com/en-us/), programming with [`C#`](https://dotnet.microsoft.com/en-us/languages/csharp) and [`Delphi`](https://www.embarcadero.com/br/products/delphi)  languages side-by-side with Microsoft [`SQL Server`](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) and `Firebird` databases.  
 
 ## Education
 
