@@ -4,7 +4,13 @@
 **Porto, Portugal**  
 _[Github](https://github.com/IcaroSousa) |  [Linkedin](https://www.linkedin.com/in/sousaicaro) | [E-mail](mailto:icaro.py@gmail.com)_ |  +351 912 826 357
 
-----------
+------
+
+I am a passionate professional, always striving for excellence. I love learning and applying my knowledge and skills to improve the environment around me. 
+I’m a self-taught person, who doesn't fear to learn from mistakes, always seeking a new adventure as an amazing opportunity to learn, grow up and spread my horizons. 
+I’m a person with strong work ethic combined with the ability to perform in high-pressure, fast-paced environments with long hours. I like learning and excelling at new technologies as needed and I care about self-improvement and improvement and prosperity about the Company that I work for.
+
+------
 
 ## Work Experience
 
