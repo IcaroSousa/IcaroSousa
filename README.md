@@ -1,6 +1,6 @@
 # Icaro Jonas Ferreira Sousa
 
-**_Software Engineer_**  
+**_Back-end Software Engineer_**  
 **Porto, Portugal**  
 _[Github](https://github.com/IcaroSousa) |  [Linkedin](https://www.linkedin.com/in/sousaicaro) | [E-mail](mailto:icaro.py@gmail.com)_ |  +351 912 826 357
 
@@ -14,20 +14,20 @@ I’m a person with strong work ethic combined with the ability to perform in hi
 
 ## Work Experience
 
-**Senior Software Engineer** @ [Farfetch](https://www.farfetch.com)  _- Aug/2021 - Present - Porto, Portugal_
+**Back-end Software Engineer** @ [Farfetch](https://www.farfetch.com)  _- Aug/2021 - Present - Porto, Portugal_
 
 ​	→ Developed back-end `microservices` using best practices(`SOLID principles`, `DRY`, `TDD`) and testing automation. prioritizing performance, resilience, reuse and automated testing.  
 ​	→ Built a mass communication tool using [`Google FCM`](https://firebase.google.com/docs/cloud-messaging) and [`Apache Kafka`](https://kafka.apache.org/) and [`.net core`](https://dotnet.microsoft.com/en-us/).  
 ​	→ Created integration tests by using [`TestContainers`](https://github.com/HofmeisterAn/dotnet-testcontainers), [`Docker-Compose`](https://docs.docker.com/compose/compose-file)  
 ​	→ Used [`MongoDB`](https://www.mongodb.com/) for all services.
 
-**Senior Software Engineer** @ [Natixis](https://natixis.groupebpce.com)  _- Aug/2020 - Aug/2021 - Porto, Portugal_
+**Back-end Software Engineer** @ [Natixis](https://natixis.groupebpce.com)  _- Aug/2020 - Aug/2021 - Porto, Portugal_
 
 ​	→ Developed `back-end services` using best practices(`SOLID principles`, `DRY`, `TDD`) and testing automation.  
 ​	→ Created internal tooling using [`.net core`](https://dotnet.microsoft.com/en-us/) and [`node.js tecnologies`](https://nodejs.org/en/), programming with [`C#`](https://dotnet.microsoft.com/en-us/languages/csharp) and `Typescript`([`Angular`](https://angular.io/)).  
 ​	→ Built libraries to share common(`Cache`, `Database access`, `Http Requests`, `Blob Storage`) code through the company, reducing code duplication and letting a `single point of modification`, making the code base `testable` and `maintainable`.
 
-**Senior Software Engineer** @ [Softplan](https://www.softplan.com.br)  _- Jan/2018 - Aug/2020 - Florianópolis, Brazil_
+**Back-end Software Engineer** @ [Softplan](https://www.softplan.com.br)  _- Jan/2018 - Aug/2020 - Florianópolis, Brazil_
 
 ​	→ Member of the team responsible to design and implement the new version of the company’s application, moving a legacy `Delphi` monolith into a [`.net core`](https://dotnet.microsoft.com/en-us/) and [`React`](https://reactjs.org/)  `microservices` based.  
 ​	→ Responsible for building, maintain and improve internal tooling(`Private Cloud`, `Continuous Integration`, `Continuous Delivery`) that enable the company’s developers to build, test and deploy applications as easily as possible.  
@@ -38,7 +38,7 @@ I’m a person with strong work ethic combined with the ability to perform in hi
 ​	→ Successfully integrated `third-party hardware` and the company software through `tcp/ip`, `udp` and `rs232` protocols, automating basic processes making them `reliable` and `fast`, reducing working time and achieving the goal of `reduce frauds to zero` in all automated processes.  
 ​	→ `Back-end` developer using [`.net technologies`](https://dotnet.microsoft.com/en-us/), programming with [`C#`](https://dotnet.microsoft.com/en-us/languages/csharp) and [`Delphi`](https://www.embarcadero.com/br/products/delphi)  languages along with databases Microsoft [`SQL Server`](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads), providing communication  between software of the company through `RESTful` web services.
 
-**Back-end Software Developer/Senior Software Engineer** @ [Engegraph](https://www.engegraph.com.br/)  _- Goiânia, Brazil_   
+**Back-end Software Developer** @ [Engegraph](https://www.engegraph.com.br/)  _- Goiânia, Brazil_   
 
 _[Jan/2017 - Jan/2018]_  
 ​	→ Implemented a `continuous integration pipeline`using [`Microsoft TFS`](https://docs.microsoft.com/en-us/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops-2020) enabling `merge request`, `code reviews` and `continuous testing`, reducing the time to integrate source code, reducing the `bugs returns` in 70%.  
@@ -74,4 +74,4 @@ _[Feb/2012 - Jan/2015]_
 ​	→ **Demystifying LINQ**  
 ​	→ **DevOps for Developers.**  
 ​	→ **Arduino, Basics.**  
-​	→ **Innovation and Creativity.**  
+​	→ **Innovation and Creativity.**
